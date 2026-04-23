@@ -26,13 +26,13 @@ namespace HeroEngine.Core.UI
             //Second Chapter
             Console.WriteLine("------------------Armoury---------------------");
             Console.WriteLine();
-            Ability swartz = new Ability("Swartz of the Ice Queen", Enums.Rarity.Legendary, Enums.AbilityType.Attack);
-            Ability hellfire = new Ability("Hellfire of demise", Enums.Rarity.Epic, Enums.AbilityType.Attack);
-            Ability airCutter = new Ability("Air cutter", Enums.Rarity.Common, Enums.AbilityType.Attack);
-            Ability corrupt = new Ability("Corrupt memory", Enums.Rarity.Rare, Enums.AbilityType.Attack);
-            Ability heal = new Ability("Healing hands", Enums.Rarity.Rare, Enums.AbilityType.Healing);
-            Ability defense = new Ability("defense", Enums.Rarity.Rare, Enums.AbilityType.Defense);
-            Ability buff = new Ability("buff", Enums.Rarity.Rare, Enums.AbilityType.Support);
+            Ability swartz = new Ability("Swartz of the Ice Queen", Rarity.Legendary, AbilityType.Attack);
+            Ability hellfire = new Ability("Hellfire of demise", Rarity.Epic, AbilityType.Attack);
+            Ability airCutter = new Ability("Air cutter", Rarity.Common, AbilityType.Attack);
+            Ability corrupt = new Ability("Corrupt memory", Rarity.Rare, AbilityType.Attack);
+            Ability heal = new Ability("Healing hands", Rarity.Rare, AbilityType.Healing);
+            Ability defense = new Ability("defense", Rarity.Rare, AbilityType.Defense);
+            Ability buff = new Ability("buff", Rarity.Rare, AbilityType.Support);
             Console.WriteLine(swartz);
 
             //I make this many add to the abilities to be able to test all the posibilities
@@ -78,12 +78,16 @@ namespace HeroEngine.Core.UI
             shadow.AddAbility(corrupt);
             altair.AddAbility(corrupt);
             List<ACharacter> fighters = new List<ACharacter>();
+            List<AHero> heroes = new List<AHero>();
             fighters.Add(abalon);
             fighters.Add(dalia);
             fighters.Add(mercer);
             fighters.Add(loki);
             fighters.Add(shadow);
             fighters.Add(altair);
+            heroes.Add(abalon);
+            heroes.Add(dalia);
+            heroes.Add(mercer);
             CombatSystem ui = new CombatSystem();
             ui.Combat(fighters);
         }

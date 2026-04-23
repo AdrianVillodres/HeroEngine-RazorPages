@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using HeroEngine.Core.Enums;
 using HeroEngine.Core.Models;
 using HeroEngine.Core.TXTParsing;
 
@@ -11,18 +10,28 @@ namespace HeroEngine.Core.UI
     {
         const string BattleLogMSG = "  BATTLE LOG - Round ";
         const string NoFightersMSG = "There are no fighters";
+        const string TotalDamageMSG = "The total damage that was dealed in all the combat is: ";
+        const string MostProfitableHeroMSG = "The most profitable hero is: ";
+        const string EnemyDefeatedFirstMSG = "The enemy that survived least rounds is: ";
         const int baseDamage = 10;
+
 
         int round = 1;
         Random rand = new Random();
 
-        string path = "../../../Core/File/combat_log.txt";
+        string path;
+
+        public CombatSystem(string customPath = "../../../../HeroEngine.Web/Data/combat_log.txt")
+        {
+            path = customPath;
+        }
 
         CombatHelper combatHelper = new CombatHelper();
         List<ACharacter> defeatedCharacters = new List<ACharacter>();
 
         public void Combat(List<ACharacter> fighters)
         {
+            TxtManager.Append(path, $"Combat started at {DateTime.Now}");
             if (fighters.Count > 0)
             {
 
@@ -126,9 +135,13 @@ namespace HeroEngine.Core.UI
                 }
 
                 Console.WriteLine("Combat finished!");
-                Console.WriteLine($"The total damage that was dealed in all the combat is: {combatHelper.Damage}");
-                Console.WriteLine($"The most profitable hero is: {combatHelper.MostProfitableHero(fighters)}");
-                Console.WriteLine($"The enemy that survived least rounds is: {combatHelper.EnemyDefeatedFirst(defeatedCharacters)}");
+                Console.WriteLine(TotalDamageMSG + combatHelper.Damage);
+                Console.WriteLine(MostProfitableHeroMSG + combatHelper.MostProfitableHero(fighters));
+                Console.WriteLine(EnemyDefeatedFirstMSG + combatHelper.EnemyDefeatedFirst(defeatedCharacters));
+
+                TxtManager.Append(path, TotalDamageMSG + combatHelper.Damage);
+                TxtManager.Append(path, MostProfitableHeroMSG + combatHelper.MostProfitableHero(fighters));
+                TxtManager.Append(path, EnemyDefeatedFirstMSG + combatHelper.EnemyDefeatedFirst(defeatedCharacters));
             }
             else
             {

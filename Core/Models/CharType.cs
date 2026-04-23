@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HeroEngine.Core.Enums
+namespace HeroEngine.Core.Models
 {
-    public enum Rarity
+    public enum CharType
     {
-        Legendary = 40,
-        Epic = 25,
-        Rare = 15,
-        Common = 5
+        HERO,
+        ENEMY
     }
 }
