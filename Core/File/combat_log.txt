@@ -1,0 +1,1177 @@
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > defense > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 28 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 40 dmg | DEFEATED!
+  HERO Dalia > Swartz of the Ice Queen > Boss Altair -> 80 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 20 dmg | DEFEATED!
+  HERO Dalia > Swartz of the Ice Queen > Minion Loki -> 80 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > defense > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 22 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 22 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg | DEFEATED!
+  HERO Dalia > Swartz of the Ice Queen > Boss Altair -> 80 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg | DEFEATED!
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 40 dmg | DEFEATED!
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > defense > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg | DEFEATED!
+  HERO Dalia > Swartz of the Ice Queen > Boss Altair -> 80 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg | DEFEATED!
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > defense > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 40 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > defense > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 28 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 28 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 40 dmg | DEFEATED!
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > buff > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 28 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 40 dmg | DEFEATED!
+  HERO Dalia > Swartz of the Ice Queen > Boss Altair -> 80 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > Swartz of the Ice Queen > Minion Loki -> 80 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg | DEFEATED!
+  HERO Dalia > Swartz of the Ice Queen > Boss Altair -> 80 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg | DEFEATED!
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 20 dmg | DEFEATED!
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > defense > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 22 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 40 dmg | DEFEATED!
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  HERO Dalia > Swartz of the Ice Queen > Minion Loki -> 80 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 22 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 20 dmg | DEFEATED!
+  HERO Dalia > defense > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 20 dmg | DEFEATED!
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > Swartz of the Ice Queen > Boss Altair -> 80 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 10 dmg | DEFEATED!
+  HERO Dalia > Swartz of the Ice Queen > Minion Loki -> 80 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 20 dmg | DEFEATED!
+  HERO Dalia > defense > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 30 dmg | DEFEATED!
+  HERO Dalia > buff > Abalon -> 0 dmg
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > Healing hands > Mercer Frey -> -30 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 40 dmg | DEFEATED!
+  HERO Dalia > defense > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 28 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  HERO Dalia > defense > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 7 dmg | DEFEATED!
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 20 dmg | DEFEATED!
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 6
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg | DEFEATED!
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  HERO Dalia > defense > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 28 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 28 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg | DEFEATED!
+  HERO Dalia > Swartz of the Ice Queen > Elite Shadow -> 80 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 28 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 30 dmg | DEFEATED!
+  HERO Dalia > Healing hands > Mercer Frey -> -30 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > buff > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 40 dmg | DEFEATED!
+  HERO Dalia > Swartz of the Ice Queen > Boss Altair -> 80 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 10 dmg | DEFEATED!
+  HERO Dalia > buff > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 4 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 30 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  HERO Dalia > buff > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > Healing hands > Mercer Frey -> -30 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 1 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Dalia > Healing hands > Mercer Frey -> -30 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 5 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  HERO Dalia > Swartz of the Ice Queen > Minion Loki -> 30 dmg | DEFEATED!
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 4 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 0
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > Healing hands > Mercer Frey -> -30 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg | DEFEATED!
+  HERO Dalia > defense > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 1 dmg | DEFEATED!
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Dalia > Swartz of the Ice Queen > Boss Altair -> 80 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  HERO Dalia > Healing hands > Mercer Frey -> -30 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg | DEFEATED!
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 6
+==================================================
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 7
+==================================================
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 8
+==================================================
+  HERO Dalia > Swartz of the Ice Queen > Elite Shadow -> 50 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > Healing hands > Mercer Frey -> -30 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg | DEFEATED!
+  HERO Dalia > Swartz of the Ice Queen > Minion Loki -> 50 dmg | DEFEATED!
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > defense > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 28 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 10 dmg | DEFEATED!
+  HERO Dalia > Healing hands > Mercer Frey -> -30 dmg
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > defense > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 22 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > defense > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 20 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 7 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Dalia > Swartz of the Ice Queen > Minion Loki -> 40 dmg | DEFEATED!
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 5 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 4 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 0
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  HERO Dalia > buff > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 4 dmg | DEFEATED!
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 1 dmg | DEFEATED!
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 5 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 0
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  HERO Dalia > Healing hands > Mercer Frey -> -30 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > Swartz of the Ice Queen > Elite Shadow -> 40 dmg | DEFEATED!
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg | DEFEATED!
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 20 dmg | DEFEATED!
+  HERO Dalia > buff > Abalon -> 0 dmg
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> -50 dmg
+  HERO Dalia > defense > Abalon -> -49 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> -90 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> -27 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> -95 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> -65 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> -50 dmg
+  HERO Dalia > defense > Mercer Frey -> -65 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> -40 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> -37 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> -5 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> -64 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> -40 dmg
+  HERO Dalia > buff > Mercer Frey -> -37 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> -30 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> -9 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 0 dmg | DEFEATED!
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 0 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Dalia > Swartz of the Ice Queen > Elite Shadow -> 0 dmg | DEFEATED!
+  ENEMY Minion Loki > Corrupt memory > Dalia -> -34 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> -4 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 0 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 0
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> -50 dmg
+  HERO Dalia > defense > Abalon -> -49 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> -40 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> -27 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> -64 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> -95 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> -50 dmg
+  HERO Dalia > Swartz of the Ice Queen > Minion Loki -> 0 dmg | DEFEATED!
+  HERO Mercer Frey > Air cutter > Elite Shadow -> -90 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> -65 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> -5 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 0 dmg | DEFEATED!
+  HERO Dalia > Healing hands > Mercer Frey -> -95 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> -80 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 0 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Dalia > Healing hands > Mercer Frey -> -125 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> -70 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> -95 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  HERO Dalia > Healing hands > Mercer Frey -> -125 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> -60 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> -34 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 6
+==================================================
+  HERO Dalia > buff > Mercer Frey -> -125 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> -50 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> -95 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 7
+==================================================
+  HERO Dalia > defense > Mercer Frey -> -95 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> -40 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> -67 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 8
+==================================================
+  HERO Dalia > defense > Mercer Frey -> -67 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> -30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> -4 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 9
+==================================================
+  HERO Dalia > Swartz of the Ice Queen > Elite Shadow -> 0 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > Swartz of the Ice Queen > Elite Shadow -> 50 dmg | DEFEATED!
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  HERO Dalia > Swartz of the Ice Queen > Boss Altair -> 40 dmg | DEFEATED!
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > defense > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 28 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 30 dmg | DEFEATED!
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  HERO Dalia > Swartz of the Ice Queen > Minion Loki -> 80 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 40 dmg | DEFEATED!
+  HERO Dalia > defense > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 10 dmg | DEFEATED!
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > Swartz of the Ice Queen > Elite Shadow -> 40 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > Healing hands > Mercer Frey -> -30 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > Swartz of the Ice Queen > Elite Shadow -> 40 dmg | DEFEATED!
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  HERO Dalia > buff > Abalon -> 0 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg | DEFEATED!
+  HERO Dalia > defense > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 20 dmg | DEFEATED!
+  HERO Dalia > defense > Mercer Frey -> 0 dmg
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > Healing hands > Mercer Frey -> -30 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg
+  HERO Dalia > buff > Mercer Frey -> 0 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Boss Altair > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 30 dmg | DEFEATED!
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 4 dmg | DEFEATED!
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 2 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Boss Altair -> 50 dmg | DEFEATED!
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 7 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 5
+==================================================
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 6
+==================================================
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 7
+==================================================
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 8
+==================================================
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 1
+==================================================
+==================================================
+  BATTLE LOG - Round 9
+==================================================
+  HERO Mercer Frey > Air cutter > Elite Shadow -> 10 dmg
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 5 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 0
+==================================================
+==================================================
+  BATTLE LOG - Round 1
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 50 dmg
+  HERO Dalia > Healing hands > Abalon -> -30 dmg
+  HERO Mercer Frey > Air cutter > Minion Loki -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Abalon -> 24 dmg
+  ENEMY Boss Altair > Corrupt memory > Abalon -> 24 dmg
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 3
+==================================================
+==================================================
+  BATTLE LOG - Round 2
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg
+  HERO Dalia > Swartz of the Ice Queen > Boss Altair -> 80 dmg
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg
+  ENEMY Minion Loki > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Elite Shadow > Corrupt memory > Dalia -> 30 dmg
+  ENEMY Boss Altair > Corrupt memory > Dalia -> 4 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 3 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 3
+==================================================
+  HERO Abalon > Hellfire of demise > Minion Loki -> 40 dmg | DEFEATED!
+  HERO Mercer Frey > Air cutter > Boss Altair -> 10 dmg | DEFEATED!
+  ENEMY Elite Shadow > Corrupt memory > Mercer Frey -> 30 dmg
+--------------------------------------------------
+  Remaining enemies: 1 | Heroes standing: 2
+==================================================
+==================================================
+  BATTLE LOG - Round 4
+==================================================
+  HERO Abalon > Hellfire of demise > Elite Shadow -> 50 dmg | DEFEATED!
+--------------------------------------------------
+  Remaining enemies: 0 | Heroes standing: 2
+==================================================
