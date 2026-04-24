@@ -1,8 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using HeroEngine.Core.Core.Models;
 using HeroEngine.Core.Models;
 using HeroEngine.Core.TXTParsing;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using static HeroEngine.Core.Core.Data.CSVStatsWriter;
 
 namespace HeroEngine.Core.UI
 {
@@ -142,6 +144,9 @@ namespace HeroEngine.Core.UI
                 TxtManager.Append(path, TotalDamageMSG + combatHelper.Damage);
                 TxtManager.Append(path, MostProfitableHeroMSG + combatHelper.MostProfitableHero(fighters));
                 TxtManager.Append(path, EnemyDefeatedFirstMSG + combatHelper.EnemyDefeatedFirst(defeatedCharacters));
+
+                SafeStatsCSV(fighters);
+
             }
             else
             {
@@ -171,6 +176,39 @@ namespace HeroEngine.Core.UI
                 return null;
 
             return targets[rand.Next(targets.Count)];
+        }
+
+        private void SafeStatsCSV(List<ACharacter> fighters)
+        {
+            CsvStatsWriter writer = new CsvStatsWriter();
+            string heroesList = "";
+            string result = fighters.Any(f => f.IsAlive && f.CharType == CharType.HERO) ? "Victory" : "Defeat";
+            List<ACharacter> heroes = fighters.Where(f => f.CharType == CharType.HERO).ToList();
+
+            for (int i = 0; i < heroes.Count; i++)
+            {
+                heroesList += heroes[i].Name + (i < heroes.Count - 1 ? ", " : "");
+            }
+
+            string enemiesList = "";
+            var enemies = fighters.Where(f => f.CharType == CharType.ENEMY).ToList();
+            for (int i = 0; i < enemies.Count; i++)
+            {
+                enemiesList += enemies[i].Name + (i < enemies.Count - 1 ? ", " : "");
+            }
+
+            var stats = new CombatResult
+            {
+                Date = DateTime.Now,
+                Heroes = string.Join(", ", fighters.Where(f => f.CharType == CharType.HERO).Select(h => h.Name)),
+                Enemies = string.Join(", ", fighters.Where(f => f.CharType == CharType.ENEMY).Select(e => e.Name)),
+                Result = result,
+                TotalRounds = round - 1,
+                TotalDamage = combatHelper.Damage,
+                BestHero = combatHelper.MostProfitableHero(fighters)
+            };
+
+            writer.AppendCombatStats(stats);
         }
     }
 }

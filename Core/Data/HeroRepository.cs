@@ -28,6 +28,11 @@ namespace HeroEngine.Core.Data
             return JsonManager.Read<AHero>(path);
         }
 
+        public void SaveAll(IEnumerable<AHero> heroes)
+        {
+            JsonManager.Write(path, heroes.ToList());
+        }
+
         public void Add(AHero hero)
         {
             List<AHero> heroes = LoadAll();
@@ -35,18 +40,13 @@ namespace HeroEngine.Core.Data
             SaveAll(heroes);
         }
 
-        public void SaveAll(IEnumerable<AHero> heroes)
-        {
-            JsonManager.Write(path, heroes.ToList());
-        }
-
         public void Delete(string name)
         {
             List<AHero> heroes = LoadAll();
-            var toRemove = heroes.FirstOrDefault(h => h.Name.Equals(name, StringComparison.OrdinalIgnoreCase));
-            if (toRemove != null)
+            var heroDelete = heroes.FirstOrDefault(h => h.Name.ToLower() == name.ToLower());
+            if (heroDelete != null)
             {
-                heroes.Remove(toRemove);
+                heroes.Remove(heroDelete);
                 JsonManager.Write(path, heroes);
             }
         }
