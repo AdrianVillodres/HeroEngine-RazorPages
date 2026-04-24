@@ -2,11 +2,16 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Channels;
 using System.Threading.Tasks;
 
 namespace HeroEngine.Core.Models
 {
+    [JsonDerivedType(typeof(Warrior), "Warrior")]
+    [JsonDerivedType(typeof(Mage), "Mage")]
+    [JsonDerivedType(typeof(Rogue), "Rogue")]
+    //this is necessary in order to be able to serialize and deserialize the hero classes, since they are abstract and we need to know which concrete class to instantiate when deserializing
     public abstract class AHero : ACharacter
     {
         public int Level { get; }

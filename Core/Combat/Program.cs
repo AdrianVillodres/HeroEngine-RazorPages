@@ -1,5 +1,6 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿using HeroEngine.Core.Data;
 using HeroEngine.Core.Models;
+using System.Security.Cryptography.X509Certificates;
 
 namespace HeroEngine.Core.UI
 {
@@ -88,6 +89,8 @@ namespace HeroEngine.Core.UI
             heroes.Add(abalon);
             heroes.Add(dalia);
             heroes.Add(mercer);
+            HeroRepository repo = new HeroRepository();
+            repo.SaveAll(heroes);
             CombatSystem ui = new CombatSystem();
             ui.Combat(fighters);
         }

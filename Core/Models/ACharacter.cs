@@ -23,7 +23,7 @@ namespace HeroEngine.Core.Models
 
         public CharType CharType { get; set; }
 
-        public List<Ability> abilities = new List<Ability>();
+        public List<Ability> abilities { get; set; } = new List<Ability>();
 
         public ACharacter(string name)
         {
