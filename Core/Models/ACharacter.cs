@@ -113,11 +113,6 @@ namespace HeroEngine.Core.Models
             {
                 CurrentHealth = 0;
             }
-
-            if (!IsAlive)
-            {
-
-            }
         }
 
         public bool IsAlive => CurrentHealth > 0;

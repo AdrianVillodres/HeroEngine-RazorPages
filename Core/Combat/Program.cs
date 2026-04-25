@@ -100,6 +100,7 @@ namespace HeroEngine.Core.UI
             int heroCount = fighters.Count(f => f.CharType == CharType.HERO);
             HeroRepository repo = new HeroRepository();
             repo.SaveAll(heroes);
+
             //Validate Heroes quantity
             currentConfig.ValidateParty(fighters);  
             CombatSystem ui = new CombatSystem(currentConfig);

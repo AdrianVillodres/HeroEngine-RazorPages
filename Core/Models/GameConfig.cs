@@ -11,7 +11,7 @@ namespace HeroEngine.Core.Core.Models
         public int MaxCombatRounds { get; set; }
         public int MaxHeroesPerBattle { get; set; }
 
-        public override string ToString() => $"Config -> Rounds: {MaxCombatRounds}, Multiplier: {LevelMultiplier}, Crit: {CriticalHitChance}";
+        public override string ToString() => $"Rounds: {MaxCombatRounds}, Multiplier: {LevelMultiplier}, Crit Rate: {CriticalHitChance}";
 
         public void ValidateParty(List<ACharacter> fighters)
         {
