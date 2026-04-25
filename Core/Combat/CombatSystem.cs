@@ -17,14 +17,15 @@ namespace HeroEngine.Core.UI
         const string EnemyDefeatedFirstMSG = "The enemy that survived least rounds is: ";
         const int baseDamage = 10;
 
-
+        private readonly GameConfig _config;
         int round = 1;
         Random rand = new Random();
 
         string path;
 
-        public CombatSystem(string customPath = "../../../../HeroEngine.Web/Data/combat_log.txt")
+        public CombatSystem(GameConfig config, string customPath = "../../../../HeroEngine.Web/Data/combat_log.txt")
         {
+            _config = config;
             path = customPath;
         }
 
@@ -40,8 +41,7 @@ namespace HeroEngine.Core.UI
 
                 Directory.CreateDirectory("Files");
 
-                while (fighters.Any(f => f.IsAlive && f.CharType == CharType.HERO) &&
-                       fighters.Any(f => f.IsAlive && f.CharType == CharType.ENEMY))
+                while (fighters.Any(f => f.IsAlive && f.CharType == CharType.HERO) && fighters.Any(f => f.IsAlive && f.CharType == CharType.ENEMY) && round <= _config.MaxCombatRounds)
                 {
                     Console.WriteLine("==================================================");
                     Console.WriteLine($"{BattleLogMSG} {round}");
@@ -135,7 +135,10 @@ namespace HeroEngine.Core.UI
 
                     round++;
                 }
-
+                if (round > _config.MaxCombatRounds)
+                {
+                    Console.WriteLine("Combat finished due to round limit!");
+                }
                 Console.WriteLine("Combat finished!");
                 Console.WriteLine(TotalDamageMSG + combatHelper.Damage);
                 Console.WriteLine(MostProfitableHeroMSG + combatHelper.MostProfitableHero(fighters));

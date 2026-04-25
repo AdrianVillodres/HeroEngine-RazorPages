@@ -15,7 +15,17 @@ namespace HeroEngine.Core.Core.Data
 
             public CsvStatsWriter(string path = "../../../../HeroEngine.Web/Data/combat_stats.csv")
             {
-                _path = path;
+                string webPath = "Data/combat_stats.csv";
+                string corePath = "../../../../HeroEngine.Web/Data/combat_stats.csv";
+
+                if (!File.Exists(path))
+                {
+                    _path = "../../../../HeroEngine.Web/Data/combat_stats.csv";
+                }
+                else
+                {
+                    _path = path;
+                }
             }
 
             public void AppendCombatStats(CombatResult result)

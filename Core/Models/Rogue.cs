@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HeroEngine.Core.Core.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,7 @@ namespace HeroEngine.Core.Models
     {
         public int FurtiveDamageMultiplier { get; set; }
         public int HiddenDaggers { get; set; }
-        public Rogue(string name, int level, int furtiveDamageMultiplier, int hiddenDaggers) : base(name, level)
+        public Rogue(string name, int level, int furtiveDamageMultiplier, int hiddenDaggers, double multiplier) : base(name, level, multiplier)
         {
             FurtiveDamageMultiplier = furtiveDamageMultiplier;
             HiddenDaggers = hiddenDaggers;

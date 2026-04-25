@@ -1,4 +1,6 @@
-﻿using HeroEngine.Core.Data;
+﻿using HeroEngine.Core.Core.Data;
+using HeroEngine.Core.Core.Models;
+using HeroEngine.Core.Data;
 using HeroEngine.Core.Models;
 using System.Security.Cryptography.X509Certificates;
 
@@ -8,12 +10,16 @@ namespace HeroEngine.Core.UI
     {
         public static void Main()
         {
+            string configPath = "../../../../HeroEngine.Web/Data/game_config.xml";
+            string rootName = "game_config";
+            var configList = XmlManagerSerialization.Read<GameConfig>(configPath, rootName);
+            GameConfig currentConfig = configList.FirstOrDefault();
             //First Chapter
             Console.WriteLine("------------------Heroes---------------------");
             Console.WriteLine();
-            Warrior abalon = new Warrior("Abalon", 3, "Who dares challenge me?!");
-            Mage dalia = new Mage("Dalia", 3);
-            Rogue mercer = new Rogue("Mercer Frey", 2, 2, 10);
+            Warrior abalon = new Warrior("Abalon", 3, "Who dares challenge me?!", currentConfig.LevelMultiplier);
+            Mage dalia = new Mage("Dalia", 3, currentConfig.LevelMultiplier);
+            Rogue mercer = new Rogue("Mercer Frey", 2, 2, 10, currentConfig.LevelMultiplier);
 
             Console.WriteLine(abalon.Presentation());
             Console.WriteLine("------------");
@@ -69,6 +75,8 @@ namespace HeroEngine.Core.UI
             //Third Chapter
             Console.WriteLine("------------------Combat System---------------------");
             Console.WriteLine();
+            dalia.CurrentHealth = dalia.MaxHP;
+            abalon.CurrentHealth = abalon.MaxHP;
             Minion loki = new Minion("Loki");
             Elite shadow = new Elite("Shadow");
             Boss altair = new Boss("Altair");
@@ -88,11 +96,29 @@ namespace HeroEngine.Core.UI
             fighters.Add(altair);
             heroes.Add(abalon);
             heroes.Add(dalia);
-            heroes.Add(mercer);
+            heroes.Add(mercer);         
+            int heroCount = fighters.Count(f => f.CharType == CharType.HERO);
             HeroRepository repo = new HeroRepository();
             repo.SaveAll(heroes);
-            CombatSystem ui = new CombatSystem();
+            //Validate Heroes quantity
+            currentConfig.ValidateParty(fighters);  
+            CombatSystem ui = new CombatSystem(currentConfig);
             ui.Combat(fighters);
+
+            var analytics = new HeroAnalytics(heroes);
+            
+            List<AHero> topHeroes = analytics.GetTopHeroesByLevel(3);
+            List<Ability> abilitiesByRarity = analytics.GetAbilitiesByRarity(Rarity.Legendary);
+            List<AHero> heroesByAbilityCount = analytics.GetHeroesWithAbilityCount(1);
+            var damagePerClass = analytics.GetAverageDamagePerClass();
+            List<AHero> searchResults = analytics.SearchHeroesByName("Dalia");
+
+            topHeroes.ForEach(h => Console.WriteLine(h.Name));
+            abilitiesByRarity.ForEach(a => Console.WriteLine(a.Name));
+            heroesByAbilityCount.ForEach(h => Console.WriteLine(h.Name));
+            damagePerClass.ToList().ForEach(d => Console.WriteLine($"{d.Key}: {d.Value}"));
+            searchResults.ForEach(h => Console.WriteLine(h.Name));
+
         }
     }
 }

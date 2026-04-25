@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HeroEngine.Core.Core.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,7 @@ namespace HeroEngine.Core.Models
         const int baseArcane = 20;
         public int Mana {  get; set; }
         public int Arcane { get; set; }
-        public Mage(string name, int level) : base(name, level)
+        public Mage(string name, int level, double multiplier) : base(name, level, multiplier)
         {
             Mana = (int)(baseMana * (1 + 0.50 * (level - 1)));
             Arcane = (int)(baseArcane + (level - 1));

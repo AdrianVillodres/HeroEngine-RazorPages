@@ -25,17 +25,12 @@ namespace HeroEngine.Core.Models
         /// <returns>the name of the hero with most damage dealed</returns>
         public string MostProfitableHero(List<ACharacter> fighters)
         {
-            string name = "";
-            int index = 0;
-            fighters.GroupBy(f => f.TotalDamage);
-            while(name == "")
-            {
-                if (fighters[index].CharType.Equals(CharType.ENEMY))
-                    index++;
-                else
-                    name = fighters[index].Name;
-            }
-            return name;
+            var bestHero = fighters
+            .Where(f => f.CharType == CharType.HERO)
+            .OrderByDescending(f => f.TotalDamage)
+            .FirstOrDefault();
+
+            return $"{bestHero.Name} with {bestHero.TotalDamage} damage dealed";
         }
 
         /// <summary>
