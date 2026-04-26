@@ -1,9 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using HeroEngine.Core.Enums;
+﻿using HeroEngine.Core.Core.Models;
 using HeroEngine.Core.Models;
 using HeroEngine.Core.TXTParsing;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using static HeroEngine.Core.Core.Data.CSVStatsWriter;
 
 namespace HeroEngine.Core.UI
 {
@@ -11,26 +12,36 @@ namespace HeroEngine.Core.UI
     {
         const string BattleLogMSG = "  BATTLE LOG - Round ";
         const string NoFightersMSG = "There are no fighters";
+        const string TotalDamageMSG = "The total damage that was dealed in all the combat is: ";
+        const string MostProfitableHeroMSG = "The most profitable hero is: ";
+        const string EnemyDefeatedFirstMSG = "The enemy that survived least rounds is: ";
         const int baseDamage = 10;
 
+        private readonly GameConfig _config;
         int round = 1;
         Random rand = new Random();
 
-        string path = "../../../Core/File/combat_log.txt";
+        string path;
+
+        public CombatSystem(GameConfig config, string customPath = "../../../../HeroEngine.Web/Data/combat_log.txt")
+        {
+            _config = config;
+            path = customPath;
+        }
 
         CombatHelper combatHelper = new CombatHelper();
         List<ACharacter> defeatedCharacters = new List<ACharacter>();
 
         public void Combat(List<ACharacter> fighters)
         {
+            TxtManager.Append(path, $"Combat started at {DateTime.Now}");
             if (fighters.Count > 0)
             {
 
 
                 Directory.CreateDirectory("Files");
 
-                while (fighters.Any(f => f.IsAlive && f.CharType == CharType.HERO) &&
-                       fighters.Any(f => f.IsAlive && f.CharType == CharType.ENEMY))
+                while (fighters.Any(f => f.IsAlive && f.CharType == CharType.HERO) && fighters.Any(f => f.IsAlive && f.CharType == CharType.ENEMY) && round <= _config.MaxCombatRounds)
                 {
                     Console.WriteLine("==================================================");
                     Console.WriteLine($"{BattleLogMSG} {round}");
@@ -124,11 +135,21 @@ namespace HeroEngine.Core.UI
 
                     round++;
                 }
-
+                if (round > _config.MaxCombatRounds)
+                {
+                    Console.WriteLine("Combat finished due to round limit!");
+                }
                 Console.WriteLine("Combat finished!");
-                Console.WriteLine($"The total damage that was dealed in all the combat is: {combatHelper.Damage}");
-                Console.WriteLine($"The most profitable hero is: {combatHelper.MostProfitableHero(fighters)}");
-                Console.WriteLine($"The enemy that survived least rounds is: {combatHelper.EnemyDefeatedFirst(defeatedCharacters)}");
+                Console.WriteLine(TotalDamageMSG + combatHelper.Damage);
+                Console.WriteLine(MostProfitableHeroMSG + combatHelper.MostProfitableHero(fighters));
+                Console.WriteLine(EnemyDefeatedFirstMSG + combatHelper.EnemyDefeatedFirst(defeatedCharacters));
+
+                TxtManager.Append(path, TotalDamageMSG + combatHelper.Damage);
+                TxtManager.Append(path, MostProfitableHeroMSG + combatHelper.MostProfitableHero(fighters));
+                TxtManager.Append(path, EnemyDefeatedFirstMSG + combatHelper.EnemyDefeatedFirst(defeatedCharacters));
+
+                SafeStatsCSV(fighters);
+
             }
             else
             {
@@ -158,6 +179,39 @@ namespace HeroEngine.Core.UI
                 return null;
 
             return targets[rand.Next(targets.Count)];
+        }
+
+        private void SafeStatsCSV(List<ACharacter> fighters)
+        {
+            CsvStatsWriter writer = new CsvStatsWriter();
+            string heroesList = "";
+            string result = fighters.Any(f => f.IsAlive && f.CharType == CharType.HERO) ? "Victory" : "Defeat";
+            List<ACharacter> heroes = fighters.Where(f => f.CharType == CharType.HERO).ToList();
+
+            for (int i = 0; i < heroes.Count; i++)
+            {
+                heroesList += heroes[i].Name + (i < heroes.Count - 1 ? ", " : "");
+            }
+
+            string enemiesList = "";
+            var enemies = fighters.Where(f => f.CharType == CharType.ENEMY).ToList();
+            for (int i = 0; i < enemies.Count; i++)
+            {
+                enemiesList += enemies[i].Name + (i < enemies.Count - 1 ? ", " : "");
+            }
+
+            var stats = new CombatResult
+            {
+                Date = DateTime.Now,
+                Heroes = string.Join(", ", fighters.Where(f => f.CharType == CharType.HERO).Select(h => h.Name)),
+                Enemies = string.Join(", ", fighters.Where(f => f.CharType == CharType.ENEMY).Select(e => e.Name)),
+                Result = result,
+                TotalRounds = round - 1,
+                TotalDamage = combatHelper.Damage,
+                BestHero = combatHelper.MostProfitableHero(fighters)
+            };
+
+            writer.AppendCombatStats(stats);
         }
     }
 }

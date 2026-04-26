@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HeroEngine.Core.Core.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,7 @@ namespace HeroEngine.Core.Models
         public int Armor {  get; set; }
         public string WarCry { get; set; }
 
-        public Warrior(string name, int level, string warCry): base(name, level)
+        public Warrior(string name, int level, string warCry, double multiplier) : base(name, level, multiplier)
         {
             Armor = (int)(baseArmor + (level - 1)); ;
             WarCry = warCry;

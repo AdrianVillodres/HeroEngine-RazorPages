@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HeroEngine.Core.Enums;
 
 namespace HeroEngine.Core.Models
 {
@@ -24,7 +23,7 @@ namespace HeroEngine.Core.Models
 
         public CharType CharType { get; set; }
 
-        public List<Ability> abilities = new List<Ability>();
+        public List<Ability> abilities { get; set; } = new List<Ability>();
 
         public ACharacter(string name)
         {
@@ -113,11 +112,6 @@ namespace HeroEngine.Core.Models
             if (CurrentHealth < 0)
             {
                 CurrentHealth = 0;
-            }
-
-            if (!IsAlive)
-            {
-
             }
         }
 
