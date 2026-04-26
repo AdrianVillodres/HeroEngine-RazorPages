@@ -138,3 +138,27 @@ This chapter is about making the combat engine of the project, the way it works 
 ---
 
 To execute the program, just click play, the combat system is automatic.
+
+---
+
+To execute the web, you must change the startup project through the IDE configuration, then execute the project. There are five main pages:
+
+### Heroes 
+
+Has the name of the heroes created
+
+### Heroes  List
+
+Has the data of the heroes created, if you click on details of a hero you will be directed to the details page, where are the details of the hero you clicked.
+
+### Heroes combat
+
+Has the log of the last combat, you can click the button to make another combat
+
+### Heroes Files
+
+Has the combat history and the Game configuration files, you can download the history and change the game settings
+
+### Stats 
+
+Has a couple of stats based on the heroes and you can filter the combat history by victory, defeat or have all the logs
